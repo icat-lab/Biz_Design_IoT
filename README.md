@@ -11,6 +11,7 @@
 - 事前のYouTube動画配信
 - 毎週水曜のzoomによる同時配信
 - zoomならびに、その他ツールを用いたグループワーク
+- manabaならびにGoogle Classroomによる資料配信、課題提出 [(iPhone App Store)](https://apps.apple.com/jp/app/google-classroom/id924620788)、 [(Android/ Google Play)](https://play.google.com/store/apps/details?id=com.google.android.apps.classroom&hl=ja)
 を併用します。
 その他、詳細は追って連絡します。
 
