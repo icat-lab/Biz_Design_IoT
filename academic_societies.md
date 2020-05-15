@@ -10,9 +10,9 @@
 
 ## 雑誌
 ### 英文
-- Design Studies
-- Design Management Journal
-- Design Management Review
+- [Design Studies](https://www.journals.elsevier.com/design-studies)
+- [Design Management Journal](https://onlinelibrary.wiley.com/journal/19487177)
+- [Design Management Review](https://onlinelibrary.wiley.com/journal/19487169)
 
 ### 和文
 - デザイン学研究[(J-STAGE)](https://www.jstage.jst.go.jp/browse/jssdj/-char/ja/)
