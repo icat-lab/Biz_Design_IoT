@@ -20,5 +20,5 @@
 - [Tim Berners\-Lee, (1990). Information Management: A Proposal.](https://www.w3.org/History/1989/proposal.html)
   - [CERNのサイト: "The birth of the Web" も参照ください。](https://home.cern/science/computing/birth-web)
 - Berners-Lee, T., & Fischetti, M. (1999). *Weaving the Web: the original design and ultimate destiny of the World Wide Web by its inventor.* Harper Collins Publishers Inc.
-高橋 徹監訳,*Webの創成 : World Wide Webはいかにして生まれどこに向かうのか*毎日コミュニケーションズ, 2001)
+  -　監訳: 高橋 徹. (2001). 『Webの創成 : World Wide Webはいかにして生まれどこに向かうのか』　毎日コミュニケーション.
 
