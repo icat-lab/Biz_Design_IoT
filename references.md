@@ -15,3 +15,10 @@
 - Manzini, E. (2016). Design culture and dialogic design. *Design Issues, 32*(1), 52-59.
 - Brown, T. (2009). *Change by Design: how design thinking transforms organisations and inspires innovation.* HarperCollins.
   - 訳： 千葉敏生. (2014). 『デザイン思考が世界を変える: イノベーションを導く新しい考え方』 早川書房.
+  
+## 第2回: 事業創造とは何か(続き)/オンラインコラボレーションの歴史 
+- [Tim Berners\-Lee, (1990). Information Management: A Proposal.](https://www.w3.org/History/1989/proposal.html)
+  - [CERNのサイト: "The birth of the Web" も参照ください。](https://home.cern/science/computing/birth-web)
+- Berners-Lee, T., & Fischetti, M. (1999). *Weaving the Web: the original design and ultimate destiny of the World Wide Web by its inventor.* Harper Collins Publishers Inc.
+高橋 徹監訳,*Webの創成 : World Wide Webはいかにして生まれどこに向かうのか*毎日コミュニケーションズ, 2001)
+
